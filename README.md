@@ -5,11 +5,11 @@ PyTorch implementation of [*Towards Understanding Adversarial Robustness of Opti
 If this work is useful to you, please consider citing our paper:
 
 ```
-@article{schrodi2021towards,
+@inproceedings{schrodi2022towards,
   title={Towards Understanding Adversarial Robustness of Optical Flow Networks},
   author={Schrodi, Simon and Saikia, Tonmoy and Brox, Thomas},
-  journal={arXiv preprint arXiv:2103.16255},
-  year={2021}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2022}
 }
 ```
 
